@@ -9,5 +9,7 @@ How to use the program with the vCPU:
 `load TailRecursiveFactorial.vasm`
 to load the first program.
 == Press Enter or type `auto` to execute automatically ==
-5. do the same for the second program:
-`StackOptimizedFactorial.vasm`
+5. Type `exit` to stop the program
+6. Repeat step 3.
+7. do the same for the second program:
+`load StackOptimizedFactorial.vasm`
